@@ -13,7 +13,6 @@ db.sqlite3
 .idea/workspace.xml
 blog/
 manage.py
-mysite/
 .idea
 *.idea
 node_modules
