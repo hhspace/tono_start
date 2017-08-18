@@ -11,9 +11,7 @@ db.sqlite3
 .idea/preferred-vcs.xml
 .idea/starter.iml
 .idea/workspace.xml
-blog/
 manage.py
-mysite/
 .idea
 *.idea
 node_modules
